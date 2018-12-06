@@ -1,5 +1,2 @@
-Info
-====
-Eerste update
-Tweede update
-Derde updat via Atom
+https://www.diffchecker.com/diff
+http://www.httrack.com/
